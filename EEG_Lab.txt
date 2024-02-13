@@ -1,8 +1,0 @@
-Replace anywhere: 
-keras.layers.convultional with tensorflow.keras.layers
-
-upload the file to google drive
-
-from google.colab import drive
-
-drive.mount('/content/drive')
